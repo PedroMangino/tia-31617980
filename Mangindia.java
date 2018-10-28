@@ -6,7 +6,7 @@
 
 /**
  *
- * @author 31637213
+ * @author 31617980
  */
 public class Mangindia {
     public static void main(String[] args) {
